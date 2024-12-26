@@ -315,13 +315,6 @@ CREATE TABLE `nguoidung` (
 -- Dumping data for table `nguoidung`
 --
 
-INSERT INTO `nguoidung` (`id_nguoidung`, `HoTen`, `FirstName`, `LastName`, `Email`, `UserName`, `MatKhau`, `VaiTro`, `Status`, `HinhAnh`, `MobileNumber`, `NgayTao`, `token`) VALUES
-(1, 'Phương Thái', 'Phương', 'Thái', 'thaip@gmail.com', 'thaiphuong123', '12345', 0, 0, NULL, NULL, '0000-00-00', NULL),
-(2, 'Phước Vinh', 'Phước', 'Vinh', 'VinhNguyen@gmail.com', 'VinhNguyen123', '12345', 0, 0, NULL, NULL, '0000-00-00', NULL),
-(3, 'Đức Phú', 'Đức ', 'Phú', 'PuuuGo@gmail.com', 'PuuGo123', '12345', 1, 0, NULL, NULL, '0000-00-00', NULL),
-(4, 'Anh Thư', 'Anh ', 'Thư', 'anhthu@gmail.com', 'anhthu123', '12345', 0, 0, NULL, NULL, '0000-00-00', NULL),
-(36, NULL, 'individual', 'anh mai', 'nguyenphuocvinh051204@gmail.com', 'vinh', '1', 0, 0, NULL, 2154846, '2024-03-30', NULL);
-
 -- --------------------------------------------------------
 
 --
